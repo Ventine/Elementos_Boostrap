@@ -30,3 +30,4 @@ Tarjeta
 mini_youtube_tarjetas
 ![image](https://user-images.githubusercontent.com/19364556/193041045-c57f81a7-fc1d-4b82-8b40-73327e67fc61.png)
 
+Guia: https://www.youtube.com/watch?v=7sDWDVODy8c&ab_channel=VidaMRR-Programacionweb
